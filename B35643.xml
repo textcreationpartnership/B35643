@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ferruginous syrup of red Peruvian bark, composed by Grimault &amp; Co. chemists and druggists laureats of the Pharmaceutic School, Paris.</title>
+            <author>Grimault &amp; Cie.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B35643</idno><idno type="EEBO-CITATION">226318209</idno>
+  <idno type="VID">203946</idno>
+  <idno type="EEBO-PROQUEST">2240890527</idno>
+  
+            <idno type="OCLC"> 226318209</idno>
+            <idno type="STC">Interim Tract Supplement Guide 778.k.15[15]</idno>
+            <idno type="OCLC">ocn 226318209</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B35643)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 203947)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E7:2[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ferruginous syrup of red Peruvian bark, composed by Grimault &amp; Co. chemists and druggists laureats of the Pharmaceutic School, Paris.</title>
+                  <author>Grimault &amp; Cie.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>The Company,</publisher>
+                  <pubPlace>[Paris? :</pubPlace>
+                  <date>1865]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by the British Library.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Grimault &amp; Cie.</term>
+               <term type="topical_term">Advertising --  Drugs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="modern_text">
+            <pb facs="tcp:203946:1"/>
+            <head>FERRUGINOUS SYRUP OF RED PERUVIAN BARK Composed by GRIMAULT &amp; C. CHEMISTS AND DRUGGISTS LAUREATS OF THE PHARMACEUTIC SCHOOL, PARIS.</head>
+            <p>For many years, chemists and other scientific people, have endeavoured to find out some combination which the medical world eagerly wished for and which would enable them to administer simultaneously IRON, which is the principle element of our blood, and PERUVIAN BARK, which is the most excellent of all tonic medicines.</p>
+            <p>The numerous attempts that had hitherto been made ended all in the same result, that of obtaining a black, thick, and disagreeable preparation, having the taste and smell of ink, without any of the beneficial properties of either <hi>Iron</hi> or <hi>Bark,</hi> which had mu<g ref="char:EOLhyphen"/>tually destroyed each other.</p>
+            <p>After several attempts, and with the assistance of several distinguished practitioners, Mons. Grimault has succeeded in overcoming the difficulty by employing the pyrophos<g ref="char:EOLhyphen"/>phite of iron and of soda, chemically neuter, which our chemistry recommended a few years ago and which physicians and scientific people allow to be superior to all other ferruginous preparations. This combination was most successful, and the combination of iron with the extract of red Bark (the dearest and best of all the different qualities of Bark) was perfect.</p>
+            <p>This production which is called the Ferruginous Syrup of red Peruvian Bark is a clear and limpid syrup of a fine red colour, it has no disagreeable taste and causes no unpleasant impression, and has no savour of iron. Thanks to its composition, it has the precious advantage of not causing those obstinate constipations resulting from the use of salts of iron and of always being willingly taken, even by young children and people of most delicate health.</p>
+            <p>Medical men will therefore find in the Ferruginous Syrup of red Peruvian Bark a first-rate preparation, on which they may always rely in treating cases of <hi>chlorosis, green sickness, debility, gastritis, gastralgia, weakness, want of appetite, impoverishment of the blood,</hi> etc.; in short, in all cases which require to be treated with iron combined with bitters and tonics.</p>
+            <p>Each tablespoonful of the Ferruginous Syrup of red Peruvian Bark contains exactly
+<pb n="2" facs="tcp:203946:2"/> 4 grains of salt of iron, and 2 grains of extract of red Bark. It is generally administered in doses of from two to four tablespoonfuls twice a day, i. e. half an hour before breakfast, and half an hour before dinner. The beneficial effects of this preparation become evident from the very beginning of its being employed.</p>
+            <p>To confirm the facts we have advanced, we are fortunately able to submit to the ap<g ref="char:EOLhyphen"/>preciation of the medical world a few short observations of some of their fellow-practi<g ref="char:EOLhyphen"/>tioners in Paris, whose scientific and honorable reputation is well known.</p>
+            <q>
+               <p>"I frequently prescribe Mons. Grimault's Ferruginous Syrup of red Bark, and feel much satisfaction in declaring that this medicine constantly produces most excellent effects in cases of dyspepsia, chlorosis, amoenorrhoea, hemorrhage, leucorrhoea, typhoid fever, and in all cases where it is necessary to strengthen the patient and to restore to the blood those principles which are impaired or lost. I have never found that the lengthened use of this syrup occasioned those accidents which result from the use of most ferruginous prepa<g ref="char:EOLhyphen"/>rations."</p>
+               <bibl>ARNAL, Physician to H. M. the Emperor.</bibl>
+               <p>"Mons. Grimault's Ferruginous Syrup of red Bark is one of those rare preparations which please both the physician and the patient. It is willingly taken by children, as well as by grown up people, and speedily modifies chlorosis, debility, and the various affections which require ferruginous treatment. It is in my opinion the most remarkable, and, above all, the most easily supported of all martial preparations."</p>
+               <bibl>CAZENAVE, Physician of St-Louis' hospital.</bibl>
+               <p>"In cases of chlorosis and anoemia resulting from acute diseases, in recoveries from eruptive severs, for children or adults, I have always been satisfied with Mons. Grimault's Ferruginous Syrup of red Bark. This preparation, which makes it possible to administer to patients two important medicines in an agreable orm, is very easily digested and can consequently be continued for a long time without inconvenience."</p>
+               <bibl>D<seg rend="sup">r</seg> CHARRIER, Of the Faculty of Paris.</bibl>
+               <p>"Since 1856, I have employed with success Mons. Grimault's Ferruginous Syrup of red Bark, and t consider it to be a very successfull innovation."</p>
+               <bibl>D<seg rend="sup">r</seg> CHASSAIGNAC, Surgeon of Lariboisière's hospital.</bibl>
+               <p>"For several years I have frequently prescribed for my patients Mons. Grimault's Ferruginous Syrup of red Bark. I feel much pleasure in stating that this medicine, always agreeable to the patient, has produced the most advantageous effects that could be expected from the united action of the two ingredients that form its basis."</p>
+               <bibl>HERVEZ DE CHÉGOIN, Member of the Academy of medicine.</bibl>
+               <p>"Mons. Grimault's Ferruginous Syrup of red Bark has supplied one of the greatest desiderata in therapeuties: the combination of tonics with salt of iron. For three years I have prescribed this syrup with the greatest success in cases of debility, chlorosis, leucorrhoea, etc., in short in all cases requiring the blood to be restored.</p>
+               <p>The limpidity of this preparation, its agreeable taste exempt from any flavour of iron, and, above all, the ease with which it is borne by the weakest stomachs make it a medicine as efficacious as attractive."</p>
+               <bibl>MONOD, M. D., Surgeon of hospitals.</bibl>
+               <p>"We have been already called upon several times in the columns of this paper to inquire for the properest <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>orms for administering <hi>Bark</hi> and <hi>Iron,</hi> two agents whose united action are so frequently required in practice. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ere is a new preparation which, for these last two years, we have had frequent occasions to prescribe, and which is moreover authorized by the daily practice of our best friends and fellow-practitioners. Thus D<seg rend="sup">rs</seg> Hervez
+<pb n="3" facs="tcp:203946:2"/> de Chégoin, Cerise, Debout, Arnal, Blache, Cazenave, and several others, appear, in a great many cases, to prefer Mons. Grimault's Ferruginous Syrup of red Bark to other preparations of bark and iron.</p>
+               <p>"Up to the present moment the combination of bark and iron had been looked upon as an impossibility; and lately the Academy rejected, as being bad, a formula for preparing ferruginous wine, notwithstanding its authors's being a distinguished chemist. But objections are silenced by the results obtained by the preparation to which we are now endeavouring to call the attention of the medical world, and which owes its success to the pureness, and particularly to the neutral quality of the new salts of iron that are recommended by Mons. Grimault.</p>
+               <p>"This chemical production has no flavour or after-taste of iron. Its remarkable limpidness indicates perfect combination, and the unimpaired bitterness of the bark is perceptible. It is in fact an agreeable cordial, and not (as is too often the case) a thick syrup.</p>
+               <p>"Each tablespoonful of the Ferruginous Syrup of red Bark contains 4 grains of iron, and 2 grains of extract of bark. The most usual way of taking it is one tablespoonful of syrup half an hour before each meal.</p>
+               <p>"Faithful to our mission of recommending medicines prepared so as to obviate the repulsive and painful nature of medicine in a great number of prescriptions, and seizing every opportunity of attracting therapeutics into this new method, we hastened to make experiments with the useful pharmaceutic production which is the subject of this notice, and, after having sufficiently studied it, we feel it a duty to call the attention of our fellow-practitioners to it."</p>
+               <bibl>G. RICHELOT, Editor of the <hi>Medical Union Paris,</hi> June, 1<seg rend="sup">st</seg> 1801.</bibl>
+               <p>"To other ferruginous preparations I have long preferred Mons. Grimault's Ferruginous Syrup of red Bark, and I have constantly observed the useful services it renders in cases of chlorosis and weakness. I have much pleasure in testifying to the superiority of this preparation, as well in agreeableness, as in the case with which it is borne by the weakest stomachs."</p>
+               <bibl>RICQUE, Physician of the Dispensary of public Salubrity.</bibl>
+               <p>"The undersigned certifies that he has prescribed Mons. Grimault's Ferruginous Syrup of red Bark to a great many patients. The advantages that this new preparation has over the generality of medicines that have a ferruginous basis, appear to the undersigned various and numerous, and more particularly striking in cases of a very sensitive nature: this preparation is the best ferruginous tonic for delicate women and children.</p>
+               <bibl>D<seg rend="sup">r</seg> SCHUSTER.</bibl>
+            </q>
+            <p>Among the physicians who daily prescribe with great success Mons. Grimault's Ferru<g ref="char:EOLhyphen"/>ginous Syrup of red Bark, we may quote the following names: Messrs. BLACHE, CERISE, DEBOUT, DE BEAUVAIS, DE LARROQUE, DE LATOUR, JEANNE, GUIBOUT, HUVET, LORNE, MARX, OTTERBOURG, PIOGEY, RACIBORSKI, ROBERT, VERNOIS, VIGNY, etc.</p>
+            <div type="advert">
+               <head>APPLICATIONS TO BE MADE To GRIMAULT &amp; C<seg rend="sup">o</seg>, Chemists and Druggists SUCCESSORS TO DORVAULT 7, rue de la Feuillade, and 12, rue de la Vrillière, near the Bank of France, Paris</head>
+               <list>
+                  <item>Pereau, St-Andrew's Hill, Doctor's Commons, E. C. London.</item>
+                  <item>Newbery and Sons, 15, St-Paul's churchyard, E. C. London.</item>
+                  <item>In New-York, J.-M. Becker, 58, Walker street, <hi>Sole agent for the United States.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="adverts_for_assorted_potions_and_quackery">
+               <pb n="4" facs="tcp:203946:3"/>
+               <head>At the same Pharmacy may be had the following special remedies deserving particular attention.</head>
+               <p>COD LIVER OIL FROM NEWFOUNDLAND, prepared specially for our house, quite pure and the only genuine, very different from all those sold with false labels pretending to be ours. It has absolutely the taste of fresh codfish, and has suffered no preparation or discolouration.</p>
+               <p>IODIZED SYRUP OF HORSE-RADISH, for those who cannot take the Cod-liver oil. This syrup is recommended by all the medical celebrities, instead of Cod-liver oil, and especially by D<seg rend="sup">rs</seg> Blache, Bazin, Cazenave, Costilhes, Guibout, Monod, Vernois, etc., etc., physicians of the Paris hospitals. A detailed pros<g ref="char:EOLhyphen"/>pectus contains a great number of medical observations on the subjet.</p>
+               <p>PHOSPHATE OF IRON OF LERAS, <hi>docteur ès sciences.</hi> That new ferruginous remedy, different from all those wich have hitherto appeared, is fluid, colourless, without smell, or taste of iron. It ra<g ref="char:EOLhyphen"/>pidly cures green sikness, diseases of the stomach, painful digestion, difficult menstruations, and is pres<g ref="char:EOLhyphen"/>cribed instead of carbonate of iron, iron lessened by hydrogen, Vallet's iron pills, lactate of iron, and pills of the ferritartrate of potash. It is the only preparation of iron which does not induce constipation and is always easily endured by weak persons.</p>
+               <p>SYRUP OF SEA PINE OF LAGASSE from Bordeaux, a new balsamie pectoral, used with the grea<g ref="char:EOLhyphen"/>test success for coughs, catarrhs, colds, bronchitis, irritations of the chest. Differing from all other pectorals, it contains no opium. Its success is equal in affections of the urethra, and catarrhs and inflammation of the blister, taking the place of the pills and syrup of tar, turpentine, balm of tolu, etc., etc.</p>
+               <p>POOR MAN'S PLASTER, composed of resinous and natural balms, greatly superior to the chemical papers and pitch plasters of Burgundy. It is used in all cases which require a derivative, for colds, irritation of the chest, aches, rheumatisms, gout, etc. It does not spoil the skin.</p>
+               <p>ELIXIR OF ROYAL YELLOW BARK. This liquor, in which the bitterness of Bark is dissimulated by a new process, contains in a small compact and an agreeable form all the principles of Bark. It is four times more active than those wines and syrups whose base is the grey Bark. It acts as a tonic, stoma<g ref="char:EOLhyphen"/>chic, and febrifuge, and revives the force and the appetite.</p>
+               <p>ELIXIR OF PEPSINE, a new discovery due to doctor Corvisart, physician to H. M. the Emperor of the French. This medecine digest the foods, as it were, without the assistance of the stomach. It always succeeds as a remedy against gastrits, gastralgies, weak digestion, loss of appetite, and inflammation of the mucous membranes of the stomach and bowels. It is the support of old men and convalescents and promotes their restoration to health. It also stops vomiting in pregnancy.</p>
+               <p>SYRUP OF HYPOPHOSPHITE OF LIME, doctor Churchill's prescription. This new remedy, most in cases of phthisis and the different diseases of the chest, quickly arrests their most alarming symptoms. By its administration the cough is soothed, the nightly perspirations cease, and the patient soon recovers health.</p>
+               <p>GUARANA, a vegetal product originally from Brazil, is infallible in cases of megrim, headache, and nevral<g ref="char:EOLhyphen"/>gia. It also has the advantage of immediately stopping the most rebellious diarrhoea and dysentery.</p>
+               <p>VEGETAL GLYCERINE extracted from palm-oil. This new production is used with success in different cutaneous affections. It soon calms the itching and communicates an extraordinary suppleness to the skin. Differently from all pomatums and fatty matters, it does not stain the linen and dissolves in water. It is now very much used instead of Cold-Cream, cucumber pomatum, and other cosmetics.</p>
+               <p>VEGETABLE MATICO CAPSULES. The essential Oil of Matico <hi>(Piper angustifolium),</hi> combined with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Balsam of Copaiva, and administered in the form of Capsules coated with gluten, forms a very active me<g ref="char:EOLhyphen"/>dicament, and is superior to all capsules of copaiva, liquid or solid, cubebs, rhatany, or bismuth, and to all the opiates known. These Capsules rapidly cure the most obtinate cases of gleet and gonorrhoea, and are the only ones which never fatigue the stomach or bowels.</p>
+               <p>VEGETABLE MATICO INJECTION. The <hi>Matico (Piper augustif<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lium),</hi> a peruvian plant, possesses extraordinary astringent and preservative properties. Prepared as an injection by our process, it suffices, without any other medicine, to stop rapidly the most obstinate cases of gleet, gonorrhoea and blennhorroea. It has obtained the sanction of the physicians of Paris and St Petersburg. It is the only injection which does not cause the contraction of the ureter, as is the case with all injections having a metallic base.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>PARIS. — Printed by W. REMQUET, GOUPY and Co, rue Garancière, 5</p>
+         </div>
+      </back>
+   </text>
+</TEI>
